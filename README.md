@@ -15,4 +15,7 @@ Our MVP is a web app where a user uploads a resume and receives AI-generated int
 - Backend: Node.js
 - AI: OpenAI API
 
+## Screenshot
+![Evalora MVP Screenshot](screenshot.png)
+
 
